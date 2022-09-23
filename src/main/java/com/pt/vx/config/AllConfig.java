@@ -93,6 +93,16 @@ public class AllConfig {
                 "安徽滁州",//这个人的详细地址
                 "滁州",//这个人在的城市
                 "uX8XZD0nk3OUNooq_3_cF5iQaj24KUtOxR431BS04gM"));//要给这个人发送的模板ID
+                
+        userList.add(getUser(
+                "ov-Gg6vnanRaOfcW8JFFb9cQd_QE",//扫码关注你的测试号以后，测试平台会出现TA的微信号
+                "孙冰冰",//咋称呼这个人
+                new BirthDay(2002,9,1,false),  a//这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
+                new BirthDay(2003,5,20,false)a/这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
+                LocalDate.of(2020,11,23),//这个人的纪念日起点，比如说在一起的那一天
+                "上海",//这个人的详细地址
+                "上海",//这个人在的城市
+                "KA3fx4Nl_zxW4l6MjsWTQ6w4n78Ysxu5IkJ7HX1pwiI"));//要给这个人发送的模板ID
 
         userList.add(getUser(
                 "ov-Gg6uvrC02yJQVL9Pp_Xx3csYQ",
@@ -103,16 +113,6 @@ public class AllConfig {
                 "四川凉山",//这个人的详细地址
                 "冕宁",//这个人在的城市
                 "uX8XZD0nk3OUNooq_3_cF5iQaj24KUtOxR431BS04gM"));//要给这个人发送的模板ID
-        
-         userList.add(getUser(
-                "ov-Gg6vnanRaOfcW8JFFb9cQd_QE",
-                "孙冰冰",
-                new BirthDay(2002,6,21,false),  //这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
-                new BirthDay(2003,5,20,false), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
-                LocalDate.of(2020,11,23),//这个人的纪念日
-                "上海",//这个人的详细地址
-                "上海",//这个人在的城市
-                "KA3fx4Nl_zxW4l6MjsWTQ6w4n78Ysxu5IkJ7HX1pwiI"));//要给这个人发送的模板ID
 
     
     }
