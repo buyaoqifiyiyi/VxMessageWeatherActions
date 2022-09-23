@@ -53,7 +53,7 @@ import java.util.List;
 public class AllConfig {
     public static final String VxAppId = "wxf10a24cf10d78145";
     public static final String VxAppSecret = "ed2ab84611663fe192d8c8c53f1aa66f";
-    public static final String WeatherKey = "16469949a9d448049b63f7e587225cd1";
+    public static final String WeatherKey = "4821081428f65b575e5d9092fad2084c";
 
     //基本类型消息
     public static final boolean open_info = true; //是否开启个人情况 true 为开启， false 为不开启
