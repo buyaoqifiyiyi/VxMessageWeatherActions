@@ -92,7 +92,7 @@ public class AllConfig {
                 LocalDate.of(2022,9,7),//这个人的纪念日起点，比如说在一起的那一天
                 "安徽滁州",//这个人的详细地址
                 "滁州",//这个人在的城市
-                "pOL7E2-60ZNOmGjSZKKDNXhpB5Uqz7WjiSEx_1ivjlM"));//要给这个人发送的模板ID
+                "40vbMjeT9y3GmV1G7qtK_liA-2x1ZUHx4QFEk28vpqI"));//要给这个人发送的模板ID
 
         userList.add(getUser(
                 "ov-Gg6uvrC02yJQVL9Pp_Xx3csYQ",
@@ -102,7 +102,7 @@ public class AllConfig {
                 LocalDate.of(2022,9,7),//这个人的纪念日
                 "四川凉山",//这个人的详细地址
                 "冕宁",//这个人在的城市
-                "pOL7E2-60ZNOmGjSZKKDNXhpB5Uqz7WjiSEx_1ivjlM"));//要给这个人发送的模板ID
+                "40vbMjeT9y3GmV1G7qtK_liA-2x1ZUHx4QFEk28vpqI"));//要给这个人发送的模板ID
 
         
     }
