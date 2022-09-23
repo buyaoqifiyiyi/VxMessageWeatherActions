@@ -114,8 +114,7 @@ public class AllConfig {
                 "上海",//这个人在的城市
                 "KA3fx4Nl_zxW4l6MjsWTQ6w4n78Ysxu5IkJ7HX1pwiI"));//要给这个人发送的模板ID
 
-
-        
+    
     }
 
     public static final List<User> userList = new ArrayList<>();
