@@ -93,8 +93,7 @@ public class AllConfig {
                 "安徽滁州",//这个人的详细地址
                 "滁州",//这个人在的城市
                 "uX8XZD0nk3OUNooq_3_cF5iQaj24KUtOxR431BS04gM"));//要给这个人发送的模板ID
-      
-        
+              
         userList.add(getUser(
                 "ov-Gg6uvrC02yJQVL9Pp_Xx3csYQ",
                 "一一",
