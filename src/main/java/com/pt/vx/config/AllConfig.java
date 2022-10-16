@@ -61,17 +61,17 @@ public class AllConfig {
     public static final boolean open_other_info= true; //是否开启额外信息（需要开启个人情况和天气预报）
 
     //额外类型消息
-    public static final boolean open_history_today = true; //是否开启历史上的今天
+    public static final boolean open_history_today = false; //是否开启历史上的今天
     public static final boolean open_qinghua = true; //是否开启情话一句
     public static final boolean open_dongman = true; //是否开启动漫台词
     public static final boolean open_tiangou = true; //是否开启舔狗日记
     public static final boolean open_world_read = true; //是否开启世界新闻
     public static final boolean open_random_read = true; //是否开启随机短句
     public static final boolean open_wozairenjian = true; //是否开启散文集我在人间凑日子
-    public static final boolean open_poetry = true; //是否开启随机诗句
-    public static final boolean open_english = true; //是否开启每日英语
-    public static final boolean open_miyu = true; //是否开启谜语
-    public static final boolean open_horoscope= true; //是否开启星座解析
+    public static final boolean open_poetry = false; //是否开启随机诗句
+    public static final boolean open_english = false; //是否开启每日英语
+    public static final boolean open_miyu = false; //是否开启谜语
+    public static final boolean open_horoscope= false; //是否开启星座解析
     public static final boolean random_module = true; //随机一个开启了的额外类型消息(开启以后，只会推送随机的)
 
     //小说
