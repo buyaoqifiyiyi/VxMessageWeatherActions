@@ -64,7 +64,7 @@ public class AllConfig {
     public static final boolean open_history_today = false; //是否开启历史上的今天
     public static final boolean open_qinghua = true; //是否开启情话一句
     public static final boolean open_dongman = true; //是否开启动漫台词
-    public static final boolean open_tiangou = true; //是否开启舔狗日记
+    public static final boolean open_tiangou = false; //是否开启舔狗日记
     public static final boolean open_world_read = false; //是否开启世界新闻
     public static final boolean open_random_read = true; //是否开启随机短句
     public static final boolean open_wozairenjian = false; //是否开启散文集我在人间凑日子
@@ -72,7 +72,7 @@ public class AllConfig {
     public static final boolean open_english = false; //是否开启每日英语
     public static final boolean open_miyu = false; //是否开启谜语
     public static final boolean open_horoscope= false; //是否开启星座解析
-    public static final boolean random_module = true; //随机一个开启了的额外类型消息(开启以后，只会推送随机的)
+    public static final boolean random_module = false; //随机一个开启了的额外类型消息(开启以后，只会推送随机的)
 
     //小说
     public static final boolean open_story = false; //开启小说,每天推送一章
