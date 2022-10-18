@@ -66,7 +66,7 @@ public class AllConfig {
     public static final boolean open_dongman = false; //是否开启动漫台词
     public static final boolean open_tiangou = false; //是否开启舔狗日记
     public static final boolean open_world_read = false; //是否开启世界新闻
-    public static final boolean open_random_read = true; //是否开启随机短句
+    public static final boolean open_random_read = false; //是否开启随机短句
     public static final boolean open_wozairenjian = false; //是否开启散文集我在人间凑日子
     public static final boolean open_poetry = false; //是否开启随机诗句
     public static final boolean open_english = false; //是否开启每日英语
