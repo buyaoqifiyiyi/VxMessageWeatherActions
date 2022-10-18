@@ -63,7 +63,7 @@ public class AllConfig {
     //额外类型消息
     public static final boolean open_history_today = false; //是否开启历史上的今天
     public static final boolean open_qinghua = true; //是否开启情话一句
-    public static final boolean open_dongman = true; //是否开启动漫台词
+    public static final boolean open_dongman = false; //是否开启动漫台词
     public static final boolean open_tiangou = false; //是否开启舔狗日记
     public static final boolean open_world_read = false; //是否开启世界新闻
     public static final boolean open_random_read = true; //是否开启随机短句
