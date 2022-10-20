@@ -90,8 +90,8 @@ public class AllConfig {
                 new BirthDay(2004,9,1,false),  //这个人的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
                 new BirthDay(2003,5,20,false), //这个人对象的生日，最后的这个true/false，如果是过公历生日就写false，如果是过农历生日写true
                 LocalDate.of(2022,9,7),//这个人的纪念日起点，比如说在一起的那一天
-                "安徽滁州",//这个人的详细地址
-                "滁州",//这个人在的城市
+                "辽宁大连",//这个人的详细地址
+                "大连",//这个人在的城市
                 "uX8XZD0nk3OUNooq_3_cF5iQaj24KUtOxR431BS04gM"));//要给这个人发送的模板ID
               
         userList.add(getUser(
